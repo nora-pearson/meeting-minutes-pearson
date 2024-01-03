@@ -1,0 +1,17 @@
+# Preface {.unnumbered}
+
+This quarto book documents the Nora Pearson's meeting minutes, originally created in Obsidian.
+
+## Description and Structure
+
+This document currently only contains Nic and Nora's meeting minutes, but will be updated in the future to include all of Nora's meeting minutes.
+
+## Key Personnel
+    - Nora Pearson; Researcher, University of Minnesota
+    - Nic Jelinski; Associate Professor, University of Minnesota (PI)
+
+## Additional Collaborators
+
+## Project Website
+
+<https://github.com/meeting-minutes-pearson>

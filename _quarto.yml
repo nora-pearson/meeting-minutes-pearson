@@ -1,0 +1,31 @@
+project:
+  type: book
+  # change output-dir to "docs" to publish to gh pages
+  output-dir: docs
+
+book:
+  title: "Meeting Minutes"
+  author: "N.B. Pearson"
+  date: "03-January-2023"
+  #cover-image: "TCMA-urban-soil-mapping-badge-13.png"
+  
+  chapters:
+    - index.qmd
+    - nic-nora-meeting-minutes
+   #- summary.qmd
+   #- references.qmd
+  #appendices:
+   #- co-authorship-template.qmd
+   #- data-use-and-sharing.qmd
+
+#bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+

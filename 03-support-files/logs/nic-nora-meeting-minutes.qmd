@@ -1,0 +1,612 @@
+---
+title: "nic-nora-meeting-minutes"
+format: html
+editor: visual
+---
+
+## 18APR2023
+- i finish grading exams
+- grading caught up except stuff TAs are doing
+- reach out to anna winter about taking exam
+- reach out to nick litzau about progress in class. anything we can do to help? opportunity to make up discussions/quizzes missed?
+- remind nic to send a soil report to the person's house by nic's house who had the profile last summer. we sampled in the normal lawn and in the exposed profile
+- chromatography: nora and tiffany prepping on wednesday. nora, tiffany, gaby running on friday
+	- prep: measure 5g of sample into flasks; does a 5% AgNO3 solution mean 50g AgNO3 per 1L H2O? check with gaby. make solution before
+- discussion: nic make new discussion worksheet; check with andy about using the student organic farm plot. if yes, nora and one TA go out on wednesday to auger to 1m at summit, in forest, and at lowest point. bring 3 gutters (from S212 or seed barn) and a tarp to wrap the gutters in. bring 3 colors of flags to show grid, composite, and block/random sampling
+
+- tim: 1m cores for lead 
+## 30MAY2023
+#### Cecilia
+- chromatography - help tiffany with runs. could also grab samples from research plots and community plots
+- maybe work with steph/ufga once a week for a full day
+	- EWB has a project happening at pilgrim baptist. if it's during the day, she could be there. nice that the activity is already designed
+	- work with steph to coordinate this; she would do whatever 
+	- could she go with americorps interns sometimes?
+- i make her schedule 3 days/week
+- ACE protein 
+- fill out mentoring doc
+- weeding cardboard mulch research plots -> start out doing with her, she can maintain them
+	- weeding, soil sampling, irrigation
+- lab tasks: only chromatography, pH
+- make long task list for cecilia 
+- sieve cardboard mulch samples
+- nic focuses on geospatial stuff, show her how to use survey123 to collect gps points at ufga sites
+	- project on all ufga sites? not just SCM?
+	- private arcgis online map with soil test data
+	- project still chromas
+- will americorps interns go on a garden tour of ufga sites? can cecilia go? take pictures and document. 
+- encourage her to go to defense talks over the summer - hava's on friday!
+
+schedule
+monday 2 blocks: have something automatic monday mornings for her to do (4 hour block consistent thing)
+tuesday have a lunch thing: potentially weed in early AM
+wednesday: full day available, hopefully community time. 2 blocks
+thursday: free in morning (plot maintenance?). 1 block
+friday full day: stuff in field or lab work. 2 blocks of lab work
+
+#### other
+major weeks we need tiffany's help
+soil sampling, harvesting, weeding potentially
+other community smples go to MVTL and pXRF
+
+
+#### ace protein
+cooridnate with jess about using centrifuge
+what does kat do? can't centrigure or read in lb, everything else yes
+
+#### lpsa
+ours is broken
+continental sceincitifc drilling facility (csdfacility@umn.edu ask if they have one) (lake coring) has one on east bank 
+UMN characterization facility - charges hourly for us to use it (charfac@umn.edu to see if they have a laser diffraction particle analyzer)
+MN nano center has clean rooms does not like soil
+
+prioritize community samples pXRF
+
+
+#### infews
+have 400 samples to send to midwest
+RAL starting to do carbon again! waiting for 2 more submissions worth of INFEWS data
+schedule block of time to clean up infews code
+
+#### iris
+MIR prep, running MIR samples
+pH EC on all beaver creek samples
+dishes
+misc samples
+not promising any field work, but she could help sporadically
+nora make other list
+
+#### tamales pXRF
+mke survey123, have cecilia fill it out
+buy 200 more flags
+lay out flags in approximate grid, number each flag. bring field measuring tapes. one person goes through with phone and fill out survey123 (lat/long, sample type (grid, footprint, or core), plot number). make footprints for the raised beds and hoop house with four corners (need additional field to label "raised bed 1")
+- put picture for all of them
+- if grid, put flag number
+- if footprint, put identifier from Jose - footprint, box 2
+- if core, put plot number
+surface samples with pXRF. one person goes ahead and clears surface, pXRF person follows up
+pull flags after mking measurements. leave flags if doing cores. do on wed
+bring mesuring tape and put next to cores
+ask jose where to do cores
+buy flags
+
+
+## 23JUN2023
+#### catch up on progress for cardboard mulch, infews, undergrad help
+- mvtl picking up soil samples on monday - research plot pre-planting samples AND samples from all 6 community gardens. nora communicate with cece today about putting them in the cooler
+- infews: more data from midwest (total P), so we have up to infews site 11. waiting on 400 more samples from the RAL, then i send those to agvise and midwest
+	- today, enter data if I can for nic's july 11 talk. email him about my progress
+- lpsa not working at all - he is getting a work order approved to get the mastersizer fixed! will not be until end of july
+- iris continuing pH on beaver creek, will make pH map of akiachak when that's done (coding!)
+- maybe: iris and jayva work on MIR this fall - will do akiachak samples (?) and all of tiffany's samples. tiffany will have chromas and MIR for all her samples
+#### urban soil mapping project & GRFP
+- nic got the grant two weeks ago! will hire a postdoc and technician
+- check with jen and EEB about taking the EEB class on writing a GRFP. can i get a regent's scholarship (75% tuition off, 1 credit class) to take it this fall or is it only EEB people?
+- field work will mostly be collecting morphology data because other soil data can be pulled from SARE (jennifer's previous project), INFEWS, and other
+- add this to my national search spreadsheet, but consider it an option
+- discussed me applying for an NSF GRFP this fall: start application in august, due mid october, find out in april. hyper competitive: 3 page personal statement and 2 page research statement. 
+- they like the personal and research statements to be connected: work in SCM community engaged research work, leading garden tours, etc.
+- write the research statement using the urban soil mapping project
+
+## 10JUL2023
+- priorities for this week: 2 days of cardboard mulch work (harvesting, emails/ordering); 8 hours for subsampling, packaging, and mailing infews samples; 3 2 hour pXRF blocks for 2022 samples; 1/2 day for Basic Soils computer work
+- week of 7/17: 3 2hr blocks of pXRF for 2022 infews samples (finish by friday); 2.5 days for cardboard mulch harvesting, weeding, and soil sampling; VFest at dunning on saturday
+- week of 7/24: 2 days of cardboard mulching, protocols and attribute tables for RRV profiles; wisdom teeth out on friday
+
+#### other
+- for nols wfa course: add to justification, "field safety training... working with multiple people in a field based setting away from campus. more in depth than provided by cfans"
+- update resume; idea is to post position description in august
+- RAL: tori runs the ICP - ask if we can recover estimates of elements from other runs for soil job 101. nic only did P. they should have spectra for the other elements, even if standards weren't run. data QA doesn't matter, just preliminary
+- INFEWS: enter 200 total p samples into google sheet
+- chromatography and tiffany: does tiffany need help over the next few weeks? ask if cece has sieved any for her; tiffany scans remaining chromas in her office?; laminating peds and profils - iris can help with that
+- TO DO: check in with iris, elsie, laine fall interest on MIR and processing PF samples
+	- iris - finish EC and pH, then priority adam's samples on MIR
+- for melvin - put gift card in envelope, label as honorarium for talk with nic on april 12
+- TO DO: little updates on pxrf in field protocol
+	- create short checklist about what we talk about when we use it - to share with everyone present. make sure you're 3-4 feet away if you're on the front, if you're the operator...
+	- annual equipment safety refresher from nic for everyone who works in lab  
+	- runaway operation. if beam won't shut off, just take the battery out
+- TyB: email jose luis (cc emilie and lindsey, attach maps) - joseluis@tamalesybicicletas.org
+	- ask about schedule for 1 hour meeting on site to walk through results. emphasize that all of the growing areas are safe. this map is of non-raised beds.
+	- high point in the garlic beds was mostly removed by tim. high points in greenhouse are not in growing area/raised beds. we pulled wood mulch away to sample bare soil  
+	- far south point is not a growing area - super close to the house
+
+
+
+
+
+## Post AK
+#### updates
+- INFEWS samples 1046-1481 sent to Midwest and Agvise, waiting for data
+	- Agvise sent as 1 shipment because it should be under $2500
+	- Midwest separated into 3 orders for cost. update: got all total P data from midwest!
+- INFEWS working on pXRF - have 220 left (now 136). Tim started using the pXRF in field 2 days/week, so I couldn't do as much. All data so far entered in sample sheet
+- INFEWS all data from Midwest/Agvise/RAL that we have entered in sample sheet
+- SCM: lots of field work! Harvesting collards, strawberries, beans 2x/week
+	- third set of samples sent to MVTL for nitrate/ammonium, waiting for data
+- Ceci: working on poster. Nora working on template/setup, Jen working on content
+- - PRISMARCTYC/YK Delta and Akiachak: beaver creek done. akiachak close
+
+#### need from Nic
+- update on MIR computer situation?
+- more tasks for Iris - see task list doc
+- time to work on presentation for Aug 9 
+- upload INFEWS code to GitHub
+
+#### Nora to do - both done
+- update resume/make CV 
+- forward MVTL data to Nic for CSP
+
+#### from google keep
+- between 27jul, 31jul-02aug, need to nail down presentation for 09aug
+- for 2022 infews pXRF - some samples have nothing left in the bag. for most of those, we have the sample that got returned from midwest. sort through those to scan the missing ones when I'm done with what we have in ziplocs?
+- 2022 infews pXRF - checked the data sheets from earlier years and they were scanned for 60 seconds. i was planning on 30 second when we first talked about it. just a heads up
+- update on position listing?
+- need more info for shipping tshirts to Mike in AZ
+- longer term thing: archive storage for samples returned from RAL, midwest, agvise. do we want to have someone return them to their original sample bags? Store the mini bags in the same boxes as our archive samples? Have several boxes around lab of samples for archive
+## 11SEP2023
+- key for S434. lockbox? jayva, laine, iris, finn have their own keys. tara needs one, jenna/kaya/tim from emilie's lab need one
+	- get one for tara
+- rosemount pits for tom hickson at st thomas
+	- nic will get back
+
+#### to do
+- river falls mileage on 9/7, hugo mileage on 9/8
+	- take travel day per diem on 100 farms days
+- text jennifer to ask about scm plot teardown
+- email grfp about melvin
+- email jay about letter
+- put agvise infews thing on emilie's metals grant
+- text/email trick about interest in temp position. 67 days. 100 farms and cardboard field work between now and first week in october. could start as volunteer position and enter hours once position starts
+
+
+#### notes
+- using flex time up - put dates on calendar
+- grfp deadlines - nora working on it during days off
+- touched base on undergrad work situation - jayva field work
+- tiffany can help with cardboard field work but leaving second week in october
+- hiring trick for 100 farms/cardboard field work? nora texted him
+- megan may reach out about using umarket
+
+
+
+
+
+
+## 19SEP2023
+#### items beforehand
+- Iris
+	- Job title? Asking for resume - student research assistant
+	- I checked on her offer letter and also noticed that her employment ended at the end of august. also, the manager info section isn't in my myu profile anymore - double checking to make sure she can still enter hours
+		- nic requested an extension, nora text iris
+	- Wondering about possibilities for data analysis? Discussed it in june
+		- short answer yes, do run MIR and analyze spectra
+		- digital soil map of akiachak pH - find 2 hour chunk with nic, iris reach out
+- MIR computer setup: someone needs to make a new account at my-account.umn.edu 
+	- nic setting up departmental account
+- Trick would like to be hired on! I explained the field work and potential for lab work. sounds like he'll probably start another americorp or other position in october, but is enthusiastic about field work for now. planning on coming to the 100 farms days and working on scm plots. 
+	- pay? made $16/hour with americorps and is looking for at least that much. has a college degree
+	- new volunteer form
+	- nic requesting $16 but it goes to higher level for approval
+	- he'll get an x500 to enter hours, be on the lookout for emails for taxes
+#### to do
+- call IT about finishing MIR computer setup. have someone come out tomorrow morning?
+- done: call mvtl about organic matter, pH, texture with sample return
+- done: text natalie about trick coming to farms, wondering about rental car situation
+
+
+## 27SEP2023
+#### my list
+- DONE: dosimeters for Kaya and Griffin?
+	- dosimeter for tara is also here... she's going to use it for XRF when that computer arrives, right? no training on pXRF
+- MAPSS scholarship... send to soils minor. i can send to undergrads in lab?
+- did adam try logging into the computer with the new sponsored account? if not, i'll do it this afternoon
+	- call IT and have them come out
+- ordering trays for basic soils
+	- good to go, order 10
+- Tiffany's samples. Maybe they discussed yesterday, but which lab are they going to? She put a sample number on each. Agvise or MVTL?
+	- MVTL
+- Intro to spatial data analysis in R, gems course
+	- take them!
+- Chart string for urban soil mapping project for agvise charge and remaining infews samples for bray p at RAL
+	- put on cardboard
+- TDR repair can't go on cardboard mulch
+	- nic requesting rebudget
+- plot teardown starting tomorrow... emailed jennifer to ask if we should weigh biomass from each plot (centers or edges?) while removing
+	- talked to jennifer about questions in email. make notes
+
+#### grad school/GRFP?
+- only 2 references are required, so melvin can be a third
+- research for research statement....
+
+
+## 02OCT2023
+- laine asked about getting a seed barn key for drying AK samples
+- renew tiny scanner subscription? one time $50 - use it daily for scm field logs and pcard receipts
+
+## 10OCT2023
+- Nicole Jones needs to be asked by Nic. for a rebudget of the SCM grant to pay for TDR repair charges. it can pay for shipping charges (anything, including tdr repair), but not repair. please cc me
+- hibbing 100 farms visit cancelled
+- thor asked about cleaning out the soil library in the seed barn... samples covering the ground. quote from thor: "it was supposed to be a shared space"
+##### with nic
+- time off... after field work is done
+- not applying for grfp this year... start as grad student officially in january 2025 so i can apply twice (fall 2024 and fall 2025)
+##### funding and grad school
+- spring 2024: 40% of time on basic soils - lab and discussion setup and teardown
+- see chalkboard image for funding talk. within LCCMR and MN Futures, there's enough money to support me through december 2024, then start as a grad officially (paid from NRCS urban soil mapping) in jan 2025
+- enough money in SCM to support an R1 for 10 months. jan-oct2024?
+- request merit increase in spring
+- double check with nsf about grfp eligibility and defferal rules
+
+## 19OCT2023
+- tiny scanner renewed - through my Apple ID so it's on my personal card. made an expense report and put it on LCCMR (like last year)
+	- note for myself: account value should be 720312-Licenses and Fees
+	- previous description: "This was for a 1-year subscription to the TinyScanner app to scan and upload documents from a phone. Purchased to scan batches of amoozemeter data sheets collected while sampling." add that it's for a renewal and for scanning field data sheets
+	- nic: put it on 1024-11025-21776-2344732-4100
+- another undergrad for the lab - seth golden took basic soils (last spring?) and is interested in working. friends with kaya koraleski
+- aaron martin reached out about scanning the infews samples for arsenic (and cadmium)
+	- use 2018. 29 data, rescan 2020 and 21
+- from 10OCT: thor asked about cleaning out the soil library in the seed barn... samples covering the ground. quote from thor: "it was supposed to be a shared space"
+	- nic: move stuff from sub-basement (nic knows which shelves could be cleared out), order big tupperware bins, then move samples from seed barn into sub-basement. need a bunch of people for this and a truck. nic emailing thor
+- suzanne
+	- asked if nic is still giving talks in december - talk to MAPSS about aritisols? (aridisols?) or me
+		- email she  
+	- john beck is trying to contact nic
+
+#### undergrad work
+- lots of labor, not lots of work - while MIR is getting set up
+- laine drying megan's samples, will sieve
+- iris help sieve
+- iris and jayva drying/sieving 100 farms samples
+- ace protein: new undergrad
+- laine - beaver creek samples. sieve, prep for carbon at RAL, prep for pH/EC
+- tara and finn - mir on adam's samples
+- iris - tiffany's samples
+#### work moving forward
+- finish sorting, cleaning, and putting away field equipment (scm and coring/amooz) - doing Friday
+- (3) finish scanning infews 2022 samples - have to sort through bags returned from midwest + wait for some to come back from RAL (bray-p)
+- ACE (bio-N) on scm pre-planting and post-harvest samples
+	- new R1 will do this - potentially start in jan. i'll get comfortable with protocol
+	- lowest priority
+- (1) KSAT measurements/calcs on 100 farms samples (remote)
+	- ask natalie about midwest
+- lab cleanup - 4th and 5th floors
+- USGS samples for laser
+	- low priority
+- (2) **beaver creek**: send all samples for carbon that were not sent last year for carbon to RAL. email and ask about carbon situation. double check that we did send them to the RAL
+	- everything this year gets carbon
+
+#### meeting notes
+- undergrads using asana - nora populate projects undergrads are working on with tasks they'll do. copy form with number of samples processed to each
+- register for mapss associate membership and winter technical event
+- nic will hire postdoc, but sooner another R1
+- nora finish PD for SCM field and lab work by tomorrow noon. looking for someone that is already familiar with TCMA
+- went through work moving forward, adding beaver creek
+- infews manuscript once xrf data is finished
+- revisit ashley's manuscript next week when meeting
+
+## 23OCT2023
+#### from last week
+- send PD for R1 for SCM
+- updated asana for all relevant projects for the undergrads
+- have all of the infews bray-p data back from the RAL, so the only data waiting on is the remaining 2022 pXRF
+- pending (nora to do): register for mapss associate membership and winter technical event
+#### new
+- tom hickson st. thomas - using monoliths outside teaching lab. i can let him in
+- tamales y bicicletas pXRF data - send out reports today
+
+## 26OCT2023
+#### from last week
+- sent PD for R1 for SCM
+	- nic says we want people who can communicate well - reaching out to ivy
+- updated asana for all relevant projects for the undergrads
+- have all of the infews bray-p data back from the RAL and all 2022 pXRF done, so just need last 400 samples of total P data in - will do friday or early next week
+- pending (nora to do): register for mapss associate membership and winter technical event
+
+#### new
+- did not see 2022 beaver creek samples returned from agvise, only the baggies of samples we did not send. will reach out to see if they still have them, otherwise we have the physical archive
+	- don't have emails about it, either - just one about sending the foreign soils permit
+	- send remaining to agvise - inorganic carbon, total, and total N
+- RAL has a short queue right now - turnaround time would be 1-2 weeks for remaining beaver creek samples - did not get to that today, so will submit them tomorrow. WAIT! they were already subsampled as they were sieved last winter! will double check sample numbers and submit
+- will pay MVTL invoice - for SCM
+- does 12-2 monday work for Nic to meet with Kari?
+	- yes, do 12 - Zoom, please - nora email kari back
+- put R code into shared drive - workshops folder - make sure it's blank code (redownload)
+- work on finding undergrads for soil mapping project: jayva? 
+	- nora talk with jayva about plans for spring and summer - interested in TAing basic soils and working over the summer! take nic's boat on the river
+- email brent at mvtl about how much volume they need to analyze
+	- just kidding! we're thinking that this is only the first half - waiting for other results
+
+## 31OCT2023
+#### from last week
+- mailed beaver creek samples to agvise
+- R code put into shared drive
+- have not talked to jayva yet, will see her this week
+- pending (nora to do): register for mapss associate membership and winter technical event
+
+#### new
+- emilie's chart string for TDR repair did not go through... do a rebudget for SCM?
+	- 30oct from nic: put on 1026-11025-20089-2344732
+	- i emailed marina
+- ~~help kat with field work this thursday?~~
+- put tiffany's data into spreadsheet, still waiting for second half, we think
+	- check in next week to see if we've gotten data
+- abstract for UFSS conference? - i need to put the data in a spreadsheet
+	- call for abstracts https://buckeyemailosu-my.sharepoint.com/personal/gaston_6_osu_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgaston%5F6%5Fosu%5Fedu%2FDocuments%2FBuckeyeBox%20Data%2FUrban%20Extension%2FProgramTeams%2FUrbanAgTeam%2FUFSS%20Misc%2FUFSS%5F2024%20Call%20for%20Abstracts%2Epdf&parent=%2Fpersonal%2Fgaston%5F6%5Fosu%5Fedu%2FDocuments%2FBuckeyeBox%20Data%2FUrban%20Extension%2FProgramTeams%2FUrbanAgTeam%2FUFSS%20Misc&ga=1
+	- draft an abstract. pull from proposal, what is project and objectives, prelim trends in soil metrics like soil moisture, chlorophyll content, and biological measurements like ACE protein. evaluate effectiveness of SCM as an amendment in urban food systems
+	- authors: everyone who is on the project (Nic, Mary, Jennifer, Nora), including UFGA workers (Melvin, Steph, Shari)
+	- 300 word max
+
+#### meeting notes
+- priority: regent's scholarship for CSCI 2033 - send application to Nic and Brent
+- discussed basic soils spring 2023: i'll do lab and discussion setup/teardown
+- blocked out my schedule for next semester
+	- CSCI 2033 lecture MWF, do afternoon discussion section (after work)
+	- Basic soils all of Monday
+	- 4 hr chunks of writing and data analysis on T, W, Th
+	- 2 hr lab chunks T, Th
+	- F all day urban soil mapping project coordination and site selection
+- meeting with jayva next week about TAing basic soils and working on urban soil mapping project over summer 2024
+- urban soil mapping: put out feelers to construction companies, earlier better - this december or january
+- nora to test posit cloud with git - make random git repo and see if we can pull stuff into posit cloud to use R studio
+- to talk about deliverables for urban soil mapping grant - nic send nora proposal and agreement
+
+## 02NOV2023
+- emails with susanna (GPC for GIS): waived from the intro GIS course (FNRM3131/5151) since i took it as an undergrad. sub for another one
+
+## 08NOV2023
+- Kyle Elkin from the REE-ARS reached out about the particle size analyses we did (USGS samples) - needs results for S470-484, S678, and S1221. i said we have the physical samples and are in the process of having our analyzer repaired - any info on timeline?
+	- nic will reach out
+- finishing ksat on 100 farms
+- 75% of protocols are in git - nora will finish tomorrow morning. either this week or early next week, put them together as a book and publish through git
+- nrcs urban soil mapping kickoff meeting december 15
+- uroc meeting december 13 - nic will send invites for both
+## 10NOV2023 Github books
+- in repo - make sure github pages is turned on. repo needs to be public. go to repo settings - pages - select branch (main) - deploy from docs folder - save
+- telling git to reach into docs folder becuase that has everything it needs to make a webpage
+- in about section of repo, click settings, under URL
+
+#### Quarto book
+- lab protocols: remove headers from .qmds and replace with 1 pound and title
+- delete folders from last time rendering
+	- command + shift + . to show hidden files. Delete quarto, R files (.rhistory and rproj.user) and docs folder, NOT git or git ignore files
+- rerender, THEN push to Git. Website will take ~10 minutes to show changes
+## 13NOV2023
+- Checked with checked in with Iris
+	- Schedule a time to make the pH map of akiachak
+	- Potentially looking for another task besides milling Adam samples – schedule overlaps with when Finn is in Lab and Iris isn’t jazzed about being in the lab at the same time
+- send PD for SCM R1 to mary rogers to send to her contacts - jennifer mentioned in last friday check in that you're hiring someone for SCM and mary wanted to send it around... i said we're talking to someone and maybe won't need to advertise that widely
+	- probably found someone, tell mary on friday
+- check for aaron's dosimeter?
+	- nora grabbed it
+- MVTL invoice - need PO for $4k invoice. MVTL needs it wrapped up by thanksgiving or so
+	- nic will follow up with nicole - he sent it to her.
+	- foward to nic with any updates
+- training one of cara's grad students on pXRF
+	- all good!
+- checked in with jayva - definitely interested in TAing Basic soils, keeping us in mind for next summer
+	- sandy and ava returning, maybe jayva - nic wants 6 total if possible
+	- jayva's hours can also be in lab! working on iron experiement with megan
+- time off: next thurs and fri for thanksgiving, last week of year except for tuesday 12/26 - moving around floating holidays and using personal holiday
+- protocols are done - didn't do 3 of them
+	- texture protocols - working draft from 2015, all included in lpsa
+	- lpsa - only did the version with photos
+	- total pb bioaccessibility - written for biochar samples, maybe rename it and do it? short doc
+	- undergrad onboarding - i have it in the protocols folder but maybe we don't want to publish it with the protocols.
+- undergrad onboarding: interested in expanding it to be more of a lab resources handbook of sorts. liked the look of kyungsoo's. have ordering information, chrome river, etc - 
+- me thinking last night: make a protocol for submitting samples to agvise, midwest, mvtl, ral, pace; protocol for urban soil sampling (corer/slidehammer, push probe, amoozemeter); lab maintenance items/lab manager tasks
+	- done! this should go in lab handbook, not published protocols folder
+
+
+#### from nic
+- postdoc interest - send their emails to me and i'll put in a spreadsheet with emails and names
+- offering katrina temp/casual
+- MVTL Tiffany samples - nora email brent or lori about small sample size. look at spreadsheets
+- Waiting on 2022 beaver creek data from agvise - nora mailed on 10/27
+
+#### lab handbook
+- outline of what will go in lab handbook
+	- onboarding, mentoring, postdoc mentoring plan should all go in handbook
+	- private lab submission protocol should go in handbook
+- resources for finance and budgeting (ordering, PCard, expense reports (chromeriver)) - examples of good justifications and what is likely to be returned. remember to incldue your chart string - different components of a chart string (link to UMN CoA)
+- lab safety section: radiation safety docs, foreign soils docs, lab inspection
+- nora put together an outline, drawing from the Fay lab and Kyngsoos
+- front page (lab philosophy), personnel, budget and finance, lab safety, maybe one more
+	- bullet list that goes within each using the Fay lab and Kyungsoo's
+- nic finished his r style guide - on git?
+#### basic soils
+- saturated wetland soil redox vials
+- forest topsoil, including leaf litter. drill a couple holes in the tops of bucket
+- prairie soil
+- topsoil from experimental plots - from field next to soil pit. potentially for texture in discussion
+- all collected 14NOV2023 - stored in teaching lab with other samples in buckets. did not collect a new wetland soil; sample i collected last year is still in fridge (S434)
+
+#### before end of year
+- make progress on infews and/or ashley's manuscript
+- regenerate figures and figure out how to construct that
+- nora block off time for writing
+- urban soils mapping proposal and deliverables - look through with nic before 12/13 meeting with NRCS/Joe Brennan
+
+
+## 16NOV2023 Posit cloud session
+- Posit cloud work: remember that to use posit cloud, the repo you're pulling from (through git) needs to be private and owned by 1 person. we couldn't get the git login through posit cloud to work when the organization owned the repo.
+- git wasn't recognizing that infews-core-data-etc was a repo. we deleted gitignore. renamed the repo on git website. in git desktop, we cloned a repo and pointed it to projects -> manuscripts on my computer. do not make another folder for the reop in here! git will do it by itself. if you make a new folder with the repo name and point git into that, the repo will be nested inside an extra folder. this makes the file path annoyingly long and have a double folder name. 
+- named old repo -archive
+- do not change R project name in posit cloud. change R project name (from nic's template) either on local computer or on git website. will cause website to be in an endless loop
+- does not automatically save or live update from git - if you make changes in git (like renaming R.proj), you must push or pull through posit cloud. when you push or pull through posit cloud, you must use your git username and your git access key, not normal password. i have notes earlier on about generating an access key
+- do not open r.proj files through posit cloud at all lol, just open r scripts
+- remember to commit before pushing
+- gs4_auth to sign in with google: enter 1 in console, will prompt you to sign in with 
+- write the object infews to a csv int he following location... write out file path. very human readable
+
+## 20NOV2023
+- phone call - checking in about week
+- kyle elkin - nanotech center will run the remaining samples that i marked 2 weeks ago. 
+	- prep those samples as normal - will have to clean out bottles 
+	- duplicate of every 10 samples - 4 duplicates
+	- nic will send pin. park in loading doc of nanotech building, text ____ that i'm there tomorrow
+	- include 1 sample of test dust
+
+## thanksgiving week other
+- ufss abstract due friday next week - jennifer said she'd look at it this week
+	- not sure how much results stuff needs to be in it? 
+- nrcs grant timeline... nora to grab shapefiles, try to delineate the geographic boundaries of this project - to propose to NRCS by kickoff (taken from powerpoint 17nov2023)
+- lab group winter celebration - friday, december 8 (12:30 - eod) works for everyone that filled out the when2meet except for jennifer
+	- nic says yes, do it!
+- aaron is trained on pXRF - double checked the infews sample data sheet and there is Pb pXRF data for all samples. he was going to run 2022 samples, but i did that this fall
+- invite melvin to lab winter celebration? didn't want to bug him with scheduling, but now that we have a date I could at least invite him
+
+## 27NOV2023
+- UFSS abstract? due Fri
+- mapss technical event
+- called Malvern: address given is to our main office, our lab is S434. Doors are locked, coordinate with Nora on time to come
+- nora made preliminary updates in basic soils lab manual, but flagged changes that still need to be made with pink post its - find a time to go through together? some of it i want nic's opinion on, most is checks to make sure r renders changes correctly, some is r stuff i don't know how to do
+
+## 29NOV2023 - Smith Foundry/Greenway
+- Phone call with Nic about pXRF at the Smith Foundry
+- Concerned about rushing into this - want to make sure we have permissions from relevant parties or at least everyone is in the know
+- don't want to scan soils in the greenway, have the data distributed to the homeowners who then freak out and take this to the city, who would be blindsided because they would've taken action had they known. 
+- evan and i emailed with jessica Galatz at the county - nic isn't sure she's the only person we need to talk to
+- thinking about jim doten (city of minneapolis), alex vollmer (city of minneapolis Pb), and the hennepin county dept of environmental services
+- nic will email evan to make sure we have full permission, otherwise there is no issue with pXRF waiting until the spring
+- we talked about how Pb is a legacy contaminant, not going anywhere, etc
+
+## 04DEC2023
+- malvern engineer coming to lab on december 26 around 10AM. Nora will let him in and he'll be here until 5 at the latest. parts have already arrived - sitting next to laser
+- nora made preliminary updates in basic soils lab manual, but flagged changes that still need to be made with pink post its - find a time to go through together? some of it i want nic's opinion on, most is checks to make sure r renders changes correctly, some is r stuff i don't know how to do
+- invite melvin to lab winter celebration? didn't want to bug him with scheduling, but now that we have a date I could at least invite him
+- mvtl reported the community garden total n values in weight % - how to get to lbs/A or ppm? numbers didn't look right for weight % to be the same thing as % (ie, multiply by 10,000 for ppm and 2 for lbs/A)
+	- for the pre-planting samples, we got the data in weight % but also got it in lbs/A as a separate export format - can reach out and see if they can give us that if we don't want weight %
+- nrcs grant: delineate geographic boundaries
+	- grant language: "contiguous census qualifying urbanized area within the Minneapolis/Saint Paul/Bloomington Metropolitan Statistical Area"
+	- not everything in the MSA - trim out WI and leave all MN? Beyond TCMA?
+- natalie's email about additional ksat measurements at rivoli bluffs urban roots site
+
+#### through end of jan
+- finish lab manual for basic soils, send to printer before january - request extra copies for each TA
+- basic soils other: megan does syllabus and canvas page; nora figures out TA schedule and meeting time, film intro video next monday (12/11), film TA portions
+- NRCS urban soils grant starts next week - 2 meetings
+	- need to do some prep this week - delineate project boundaries
+- finish cardboard mulch data entry/write up
+	- idea: R1 types up field log scans? good way to get familiar with the process before having to do it
+
+## 05DEC2023
+- interviews for R1 - reach out about general availability in **next two weeks** within nic's schedule. zoom interview. please note that this a temp position ending no later than november 2024
+- carbon stocks in urban soils, phosphorus, some lead (one component), pH, Ksat
+	- urban soil carbon, urban soil ... etc for each search
+	- make new subcollection in m061-pearson-infews
+	- nora search for a couple hours a day this week, next week prioritize which ones to review next week, then start review, then ease into writing
+- nora make github pages for nrcs urban soil mapping project, using alaska soil data bank repo as template. using what was written in the grant, make a different page for each deliverable. just get something started!
+	- make sure there's a docs folder so it can be rendered as a github pages site - then nic can turn github pages on
+
+## 12DEC2023
+- natalie's email - get her a quote for laser on the original 100 farms samples (n=200) for an ~~undergrad~~  R1 or temp/casual to do?
+	- 200 / 6/hr = 33 hours 
+	- $17/hr w/ fringe = $23.12 = $762.96 + 300 for depriciation = 1062.96 = **$1063**
+
+## 13DEC2023 lab manual - pdf render
+- for rendering markdowns to pdfs -> nic's standard formatting uses https://tug.org/texlive/ --> download for mac (mactex)
+- takes 8.6gb, put in applications
+- to render: close project in R, delete files from last time rendering (R user, R history, quarto, and docs folder), reopen R project, open yml and index, render pdf from index
+
+## 14DEC2023 infews code
+- finished R1 interviews - nic reached out to morgan
+- talked about katrina running project if morgan goes to grad school; morgan not going to grad school in sept 2024
+- zoom recorded meeting to cloud -> pull vtt file, change extension to .txt, plug in to claude and have it make structured meeting minutes
+	- make qmd for meeting minutes and add to repo: 03-support-files -> logs
+	- do this for every meeting
+
+## 20DEC2023
+- can't charge lab supplies to adam's grant - need additional scintillation vials and canned air for milling/MIR
+	- suspect i will run into the same issue with the balls for the ball mill
+	- charge to LCCMR?
+	- nora emailed nic details for a rebudget of adam's grant
+- scheduling jan 12 nrcs meetings: back to back - DSP and general technical questions for project (survey123 pedon data into nasis)
+	- nora to schedule this week - create two meetings
+	- 1) urban dynamic SP discussion 2) urban soil data collection QA/QC NASIS discussion
+	- "attend one or both as fits your role in this project"
+	- set up zoom meetings - "i set these up as zooms, if you'd prefer them as teams could someone at nrcs set them up"
+	- only give them the zoom title/link/date/pw - not whole thing
+- have not heard back from either professor of the classes we wanted the syllabi for
+	- followed up 20dec - update: just got CSCI 2033
+
+#### personnel
+- morgan's hire is in process with nicole and HR. maybe won't happen by jan 2, but early
+	- nic has talked with her about being very independent. she will develop the ACE protein protocol - I can put her in contact with kat or others
+	- i will get her situated in the lab and building, share office
+- nic working on katrina hire - will split time between data backlog (lab work) and data management. data backlog will include laser on the remaining infews samples - all of 2022, maybe 2018-19?
+	- talking about other undergrads. tara and finn will continue mir/milling in the spring. iris pH/EC/milling. laine graduating, was sieving. jayva pH/EC on 2023 permafrost samples, but not working as much
+	- will need someone to continue on the 2023 permafrost samples -> nic suggested katrina split some of her time on that
+- new postdoc for urban soil mapping: nic is reaching out to them this week, schedule interviews for early january
+- nic hiring another postdoc - i am not involved
+
+#### grad school nora
+- i followed up with both professors we wanted syllabi for (and got one response)
+- we looked at my doc - LAAS course schedule. thinking about dropping the AI for earth course and moving some classes around so i would have no classes in my last semester
+- rest of notes updated in google doc
+#### notes we didn't talk about
+- follow up items from joe
+	- You mentioned your team looking at working on designing a **DSP** as early as this winter. I am excited to hear this coming together! Do you think it would be possible to share an abstract of what you’re looking at (or possibly ask Nora **draft something in the metadata**)?  
+	- done: Share data management plan - UofM  (I really appreciate this sharing of workflow! It really brings to life the ‘mapping guide’ concept. I moved my correlation documents to markdowns a few years back for the raster projects (I attached an example))
+	- dan wing: Share resources on Survey123 & Partner NASIS Access – Wing  
+	- **Schedule one hour follow-up calls in January with Urban leads & DSP leads** – UofM  
+	- **Begin organizing in-person kick off meeting for March 2023 to include project stakeholders** -UofM
+
+#### action items
+- (done) nora: run infews code through claude to clarify/clean up
+	- did not do a good job, removed major chunks of code. I don't think i was using the best verbs?
+- nora: record talk i gave to nrcs soil survey conference in august for infews grant wrap up (for Anu, i'm guessing) - add infews grant number if not in it
+	- supported by USDA NIFA: INFEWS-grant number and name on title slide and acknowledgement
+	- to do on Friday
+- nora: flatten profile posters for spring semester in teaching lab
+- nora: make note in lab 6 manual for TAs to draw lightning into nitrogen cycle diagram
+- (done) nora: email nic for rebudget on adam's grant
+- (done) nora: schedule 1/12 meetings with nrcs
+- nic: rebudget adam's grant so nora can purchase adam's supplies
+
+## 21DEC2023
+#### action items
+- nora to make git repo for meeting minutes with nic
+- nora to refactor infews code based on last 2 claude outputs - keep all/most of our code, but use claude headings
+- write conclusions based on figures from coop soil survey conference slides in aug
+- write abstract with some numbers. will help distill what main points will be
+- after that, go thorugh papers to find what's relevant in most
+- sort papers - tag most relevant ones in each category
+
+
+## january?
+#### refactoring infews code (22dec)
+- looks like we're reading in the same data twice?
+- bulk density model - the 2021 bd values were not good. we made a model to predict new ones, but it's predicting for values from all years - wouldn't we want it to just predict for 2021 and not the values we already have (that were used to make the model?)
+	- i think i am wrong - looks like we told it to use existing values when there was one
+	- solid amount of code for the bd model, which we want to keep, right? we made a "cleaner script" below our long/messy/comment-filled one that doesn't have the background work for the bd model
+
+#### ongoing action items
+- nora refactoring infews code
+- nora reviewing infews lit search - tagging "priority" papers
+- nic rebudgeting adam's grant for canned air and scintillation vials - $174?
+- see 21dec note, nora writing infews paper
+
+#### questions
+- sending MIR in for service or having Bruker tech come out? nora will plan on talking to someone from bruker (calling on 03jan)
+	- wait, maybe, until Drea has run her samples?
